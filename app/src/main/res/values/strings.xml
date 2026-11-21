@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">子进程限制开关</string>
+    <string name="tile_label">子进程限制</string>
+</resources>

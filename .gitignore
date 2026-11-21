@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio
+*.iml
+/.idea/
+local.properties
+
+# Signing (never commit these)
+*.keystore
+*.jks
+keystore.properties
+
+# macOS
+.DS_Store
